@@ -1,4 +1,4 @@
-# awesome-selfhosted-data
+ai¹meta-academy-# awesome-selfhosted-data
 
 This repository holds data used to generate https://awesome-selfhosted.net and https://github.com/awesome-selfhosted/awesome-selfhosted
 
